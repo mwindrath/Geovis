@@ -4,4 +4,4 @@ pandas
 pyproj == 2.5.0
 geopandas
 OSMPythonTools
-c
+gpdvega
